@@ -1,0 +1,27 @@
+label{
+    color: yellowgreen;
+    background-color: black;
+}
+
+.inputs{
+    padding: 12px 20px;
+}
+
+#msg{
+    height: 200px;
+}
+
+.button{
+    border: 5px solid rgb(25, 216, 41); /* cor da borda */
+    margin: auto; /* centraliza com bordas automáticas nas laterais */
+    text-align: center; /* centraliza o texto */
+    padding: 6px 0px 6px 0px; /* espaços top right bottom left */
+}
+#buttonOne:hover{
+    background-color: black;
+}
+
+
+#buttonTwo:hover{
+    background-color: darkorange;
+}
